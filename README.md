@@ -4,8 +4,6 @@ This repository is a code sample.
 
 ## Overview
 
-I will host the FE for some time @ https://applicant-sf.github.io/. Please check it out!
-
 Also check it out on mobile (still some kinks)! See images in `./res`.
 
 ![Applicant-SF-UsersList](./res/UsersList.jpg)
